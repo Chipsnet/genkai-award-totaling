@@ -1,0 +1,11 @@
+{
+  "name": "genkai-award-totaling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Chipsnet/genkai-award-totaling.git",
+  "author": "Minato86 <doronomori660@outlook.jp>",
+  "license": "MIT",
+  "scripts": {
+      "start": "node"
+  }
+}
